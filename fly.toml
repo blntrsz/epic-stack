@@ -1,5 +1,5 @@
-app = "epic-stack-3617"
-primary_region = "sjc"
+app = "epic-stack-blntrsz"
+primary_region = "ams"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
